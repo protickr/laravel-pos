@@ -4,6 +4,7 @@
 /storage/*.key
 storage/
 /storage
+/storage/*
 /vendor
 .env
 .env.backup
@@ -15,5 +16,4 @@ yarn-error.log
 .editorconfig
 .idea/
 storage/debugbar/
-/public
 *.sql
